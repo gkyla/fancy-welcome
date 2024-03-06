@@ -1,0 +1,22 @@
+{
+  "name": "fancy-welcome",
+  "version": "1.0.0",
+  "description": "fancy way to welcoming people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkyla/fancy-welcome.git"
+  },
+  "keywords": [
+    "fancy"
+  ],
+  "author": "gkyla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkyla/fancy-welcome/issues"
+  },
+  "homepage": "https://github.com/gkyla/fancy-welcome#readme"
+}
