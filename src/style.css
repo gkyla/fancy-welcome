@@ -4,5 +4,40 @@
   right: 0;
   left: 0;
   bottom: 0;
-  background: salmon;
+  z-index: 9999;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fancy-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fancy-welcome-display-word.active {
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 2.5em;
+  color: #f0f0f0;
+  background-color: #213555;
+  border-radius: 10px;
+  margin-bottom: 7px;
+}
+
+.fancy-welcome-display-language {
+  display: inline-block;
+  font-size: 1.2em;
+  padding: 10px;
+}
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
