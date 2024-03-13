@@ -1,6 +1,6 @@
 {
   "name": "fancy-welcome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fancy way to welcoming people",
   "main": "./src/index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/gkyla/fancy-welcome.git"
   },
   "keywords": [
-    "fancy", "welcome"
+    "fancy",
+    "welcome"
   ],
   "author": "gkyla",
   "license": "MIT",
