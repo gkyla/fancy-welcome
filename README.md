@@ -15,13 +15,16 @@ First you need animate.css package to make fancy-welcome work, simply just add i
 </head>
 ```
 
+We recommend you set up with a JS module bundler like Vite, of which we have an example here (using Vite) [fancy-welcome-playground](https://github.com/gkyla/fancy-welcome-playground)
+
 
 ## How To use:
 
 
 ``` js
+import 'animate.css' // this is required
 import fancy from 'fancy-welcome';
-import 'fancy-welcome/style.css'
+import 'fancy-welcome/dist/style.css'
 
 // Render a welcome page
 document.addEventListener("DOMContentLoaded", () => {
@@ -41,6 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
 If you want to render a multiple language you can pass an array with specified language props
 
 ``` js
+import 'animate.css' // this is required
 import fancy from 'fancy-welcome';
 import 'fancy-welcome/style.css'
 
