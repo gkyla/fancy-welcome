@@ -5,6 +5,9 @@ Simply greeting people with various language
 ## Instalation
 First you need animate.css package to make fancy-welcome work, simply just add it directly to your webpage using a CDN
 
+``` sh
+$ npm install fancy-welcome
+```
 
 ```html
 <head>
