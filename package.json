@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gkyla/fancy-welcome/issues"
   },
-  "homepage": "https://github.com/gkyla/fancy-welcome#readme"
+  "homepage": "https://github.com/gkyla/fancy-welcome#readme",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
 }
