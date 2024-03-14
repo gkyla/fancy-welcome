@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gkyla/fancy-welcome.git"
+    "url": "https://github.com/gkyla/fancy-welcome.git"
   },
   "keywords": [
     "fancy",
