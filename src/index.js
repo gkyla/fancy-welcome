@@ -8,10 +8,7 @@ export function greetings(
 ) {
   if (language === "all") {
     if (!includeNativeWord) {
-      console.log(includeNativeWord);
-
       return rawData.map((rawDataLang) => {
-        console.log(rawDataLang.word.split(" ")[0]);
         return {
           language: rawDataLang.language,
           word: rawDataLang.word.split(" ")[0],
