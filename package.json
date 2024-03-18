@@ -1,6 +1,6 @@
 {
   "name": "fancy-welcome",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "fancy way to welcoming people",
   "main": "./src/index.js",
   "scripts": {
